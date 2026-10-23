@@ -3,7 +3,7 @@ title: "align-items"
 description: ""
 category: css
 keywords: align,items,flexbox,grid
-last_test_date: "2023-12-19"
+last_test_date: "2026-10-24"
 test_url: "/tests/css-align-items.html"
 test_results_url: "https://app.emailonacid.com/app/acidtest/FvYneb1dhiR4we6rAOf4AC02oFa6ksA0sTWxbEjgmt6Mg/list"
 stats: {
@@ -22,7 +22,8 @@ stats: {
 	},
 	gmail: {
 		desktop-webmail: {
-			"2020-12": "n"
+			"2020-12": "n",
+			"2026-10": "y"
 		},
 		ios: {
 			"2020-12": "n"
