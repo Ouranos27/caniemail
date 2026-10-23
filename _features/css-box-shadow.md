@@ -2,7 +2,7 @@
 title: "box-shadow"
 description: "Adds shadow effects around an element's frame."
 category: css
-last_test_date: "2023-12-20"
+last_test_date: "2026-10-24"
 test_url: "/tests/css-box-shadow.html"
 test_results_url: "https://app.emailonacid.com/app/acidtest/TxbmgM1vnD44aLEEOdI06riwAqm3qmfet8jFoYTQ65bRp/list"
 stats: {
@@ -19,7 +19,8 @@ stats: {
 	gmail: {
 		desktop-webmail: {
 			"2019-02":	"n",
-			"2023-01":	"n"
+			"2023-01":	"n",
+			"2026-10":	"y"
 		},
 		ios: {
 			"2019-02":	"a #1",
