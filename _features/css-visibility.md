@@ -2,7 +2,7 @@
 title: "visibility"
 description: "Tested for values `hidden` and `collapse`."
 category: css
-last_test_date: "2019-02-28"
+last_test_date: "2026-10-24"
 test_url: "/tests/css-visual-effects.html"
 test_results_url: "https://app.emailonacid.com/app/acidtest/DhTRmGsVH6uobU4pHD3CasJywfBL4HnEjA1LOF8f9ctso/list"
 stats: {
@@ -16,7 +16,8 @@ stats: {
     },
     gmail: {
         desktop-webmail: {
-            "2019-02": "n"
+            "2019-02": "n",
+            "2026-10": "y"
         },
         ios: {
             "2019-02": "n"
