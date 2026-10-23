@@ -2,7 +2,7 @@
 title: "text-shadow"
 description: ""
 category: css
-last_test_date: "2019-02-28"
+last_test_date: "2026-10-24"
 test_url: "/tests/css-box-model.html"
 test_results_url: "https://app.emailonacid.com/app/acidtest/pyPQFHSYLFrhbRShalju0B2fYNwUgLuyKTLx4MLqiw5mE/list"
 stats: {
@@ -16,7 +16,8 @@ stats: {
 	},
 	gmail: {
 		desktop-webmail: {
-			"2019-02": "n"
+			"2019-02": "n",
+			"2026-10": "y"
 		},
 		ios: {
 			"2019-02": "n"
